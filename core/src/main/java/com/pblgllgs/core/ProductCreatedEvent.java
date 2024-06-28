@@ -1,4 +1,4 @@
-package com.pblgllgs.productsmicroservice.service;
+package com.pblgllgs.core;
 /*
  *
  * @author pblgl

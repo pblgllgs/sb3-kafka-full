@@ -6,6 +6,7 @@ package com.pblgllgs.productsmicroservice.service;
  *
  */
 
+import com.pblgllgs.core.ProductCreatedEvent;
 import com.pblgllgs.productsmicroservice.rest.CreateProductRestModel;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

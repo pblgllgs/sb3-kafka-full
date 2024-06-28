@@ -1,6 +1,6 @@
 package com.pblgllgs.productsmicroservice.kafka;
 
-import com.pblgllgs.productsmicroservice.service.ProductCreatedEvent;
+import com.pblgllgs.core.ProductCreatedEvent;
 import org.apache.kafka.clients.admin.NewTopic;
 import org.apache.kafka.clients.producer.ProducerConfig;
 import org.springframework.beans.factory.annotation.Value;
@@ -51,7 +51,7 @@ public class KafkaConfig {
     private Integer inFlightRequests;
 
 
-    Map<String,Object> producerConfig(){
+    Map<String, Object> producerConfig() {
         Map<String, Object> config = new HashMap<>();
         config.put(ProducerConfig.BOOTSTRAP_SERVERS_CONFIG, bootstrapServers);
         config.put(ProducerConfig.KEY_SERIALIZER_CLASS_CONFIG, keySerializer);
@@ -67,12 +67,12 @@ public class KafkaConfig {
     }
 
     @Bean
-    ProducerFactory<String, ProductCreatedEvent> producerFactory(){
+    ProducerFactory<String, ProductCreatedEvent> producerFactory() {
         return new DefaultKafkaProducerFactory<>(producerConfig());
     }
 
     @Bean
-    KafkaTemplate<String, ProductCreatedEvent> kafkaTemplate(){
+    KafkaTemplate<String, ProductCreatedEvent> kafkaTemplate() {
         return new KafkaTemplate<>(producerFactory());
     }
 
@@ -81,7 +81,7 @@ public class KafkaConfig {
         return TopicBuilder.name("product-created-event-topic")
                 .partitions(3)
                 .replicas(3)
-                .configs(Map.of("min.insync.replicas","2"))
+                .configs(Map.of("min.insync.replicas", "2"))
                 .build();
     }
 

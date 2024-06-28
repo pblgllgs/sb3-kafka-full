@@ -21,3 +21,15 @@ dProductsMicroservice/src/main/java/com/pblgllgs/productsmicroservice/service/Pr
 eProductsMicroservice/src/main/java/com/pblgllgs/productsmicroservice/service/ProductCreatedEvent.java,7\f\7fa4840b6b8fce0ec602bc046366de7959ec6432
 ‹
 [ProductsMicroservice/src/main/java/com/pblgllgs/productsmicroservice/rest/ErrorMessage.java,0\3\03b6c2bf8a148e47dcb78c6352a0065d977d6ca8
+®
+~EmailNotificationMicroservice/src/main/java/com/pblgllgs/emailnotificationmicroservice/handler/ProductCreatedEventHandler.java,d\1\d129a5410ae198801aca5d163a0d5d173f47704f
+<
+core/HELP.md,2\8\2819bbeb645c7220848738578c0ae446166e96c9
+m
+=core/src/main/java/com/pblgllgs/core/ProductCreatedEvent.java,7\5\75ebb7485732cdd552f218b7d8acbd9b6b44d0f9
+U
+%EmailNotificationMicroservice/pom.xml,2\6\2606308d2ceba13c3d9f2ef106d1c46146f01e7c
+<
+core/pom.xml,7\6\76401d80919958a0380f14132adf8b8fc9c3d6ea
+
+mEmailNotificationMicroservice/src/main/java/com/pblgllgs/emailnotificationmicroservice/kafka/KafkaConfig.java,5\1\513e666ed0008b348dba521179a4edcab8ba27f9
