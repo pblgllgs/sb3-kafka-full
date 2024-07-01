@@ -17,8 +17,6 @@ eProductsMicroservice/src/main/java/com/pblgllgs/productsmicroservice/rest/Creat
 `ProductsMicroservice/src/main/java/com/pblgllgs/productsmicroservice/service/ProductService.java,9\d\9df83d489822c28e97909c3ef012dfebeb5075db
 î
 dProductsMicroservice/src/main/java/com/pblgllgs/productsmicroservice/service/ProductServiceImpl.java,7\a\7a97d4251410f64a1e65606e7557394758eef7fd
-ï
-eProductsMicroservice/src/main/java/com/pblgllgs/productsmicroservice/service/ProductCreatedEvent.java,7\f\7fa4840b6b8fce0ec602bc046366de7959ec6432
 ã
 [ProductsMicroservice/src/main/java/com/pblgllgs/productsmicroservice/rest/ErrorMessage.java,0\3\03b6c2bf8a148e47dcb78c6352a0065d977d6ca8
 Æ
@@ -33,3 +31,25 @@ U
 core/pom.xml,7\6\76401d80919958a0380f14132adf8b8fc9c3d6ea
 ù
 mEmailNotificationMicroservice/src/main/java/com/pblgllgs/emailnotificationmicroservice/kafka/KafkaConfig.java,5\1\513e666ed0008b348dba521179a4edcab8ba27f9
+§
+tEmailNotificationMicroservice/src/main/java/com/pblgllgs/emailnotificationmicroservice/error/RetryableException.java,c\6\c63c88aca11f16ca67c24818366a8910f2db63ae
+ß
+wEmailNotificationMicroservice/src/main/java/com/pblgllgs/emailnotificationmicroservice/error/NonRetryableException.java,4\d\4daa85ddbffa0c951d8ae7aa65c732e8f0fdbfdf
+ß
+wEmailNotificationMicroservice/src/main/java/com/pblgllgs/emailnotificationmicroservice/error/NoTRetryableException.java,8\2\82e7a89ffbdeaaf0bc8b75fc8e939167886834ea
+•
+uEmailNotificationMicroservice/src/main/java/com/pblgllgs/emailnotificationmicroservice/kafka/KafkaConsumerConfig.java,d\d\ddda38288b378c0e582df0e4a6ef9b2116dcd24d
+ß
+wEmailNotificationMicroservice/src/main/java/com/pblgllgs/emailnotificationmicroservice/error/NoTretryableException.java,f\6\f6bfc51524749ede068a4421404c42d514556da6
+ß
+wEmailNotificationMicroservice/src/main/java/com/pblgllgs/emailnotificationmicroservice/error/NotRetryableException.java,c\7\c7138a471e5c130aa3be15b77b7dce94a2e1c82d
+µ
+ÑEmailNotificationMicroservice/src/main/java/com/pblgllgs/emailnotificationmicroservice/EmailNotificationMicroserviceApplication.java,1\c\1cdfff0fcd8792847eb021ad6307915de38a4321
+C
+mockservice/pom.xml,e\8\e8e4f149ed688284f9cf2fa49c3b7cf49d7bc66a
+è
+_mockservice/src/test/java/com/appsdeveloperblog/ws/mockservice/MockserviceApplicationTests.java,f\c\fc2e00cf71416eed15c64ea49c294210ca1f86d0
+â
+Ymockservice/src/main/java/com/appsdeveloperblog/ws/mockservice/StatusCheckController.java,0\5\05ef0f09e4454ef9a24c097ce9ade63caae224c8
+ä
+Zmockservice/src/main/java/com/appsdeveloperblog/ws/mockservice/MockserviceApplication.java,7\6\769e8d48629eec11a89c8baf04d6bbeef30f4cbb
