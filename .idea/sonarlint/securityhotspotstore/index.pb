@@ -29,12 +29,8 @@ U
 %EmailNotificationMicroservice/pom.xml,2\6\2606308d2ceba13c3d9f2ef106d1c46146f01e7c
 <
 core/pom.xml,7\6\76401d80919958a0380f14132adf8b8fc9c3d6ea
-
-mEmailNotificationMicroservice/src/main/java/com/pblgllgs/emailnotificationmicroservice/kafka/KafkaConfig.java,5\1\513e666ed0008b348dba521179a4edcab8ba27f9
 ¤
 tEmailNotificationMicroservice/src/main/java/com/pblgllgs/emailnotificationmicroservice/error/RetryableException.java,c\6\c63c88aca11f16ca67c24818366a8910f2db63ae
-§
-wEmailNotificationMicroservice/src/main/java/com/pblgllgs/emailnotificationmicroservice/error/NonRetryableException.java,4\d\4daa85ddbffa0c951d8ae7aa65c732e8f0fdbfdf
 §
 wEmailNotificationMicroservice/src/main/java/com/pblgllgs/emailnotificationmicroservice/error/NoTRetryableException.java,8\2\82e7a89ffbdeaaf0bc8b75fc8e939167886834ea
 ¥
@@ -53,3 +49,7 @@ _mockservice/src/test/java/com/appsdeveloperblog/ws/mockservice/MockserviceAppli
 Ymockservice/src/main/java/com/appsdeveloperblog/ws/mockservice/StatusCheckController.java,0\5\05ef0f09e4454ef9a24c097ce9ade63caae224c8
 Š
 Zmockservice/src/main/java/com/appsdeveloperblog/ws/mockservice/MockserviceApplication.java,7\6\769e8d48629eec11a89c8baf04d6bbeef30f4cbb
+§
+wEmailNotificationMicroservice/src/main/java/com/pblgllgs/emailnotificationmicroservice/entity/ProcessedEventEntity.java,4\5\45d26abe3660d0bf6e89bbb629575ed52d8c3b24
+¯
+EmailNotificationMicroservice/src/main/java/com/pblgllgs/emailnotificationmicroservice/repository/ProcessedEventRepository.java,4\6\469919b3f7f0adb47dc580c76cdfd60e21937f40

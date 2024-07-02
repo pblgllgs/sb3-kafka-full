@@ -1,4 +1,8 @@
 
 g
-java:S26292"$Invoke method(s) only conditionally.(ãêÑâ8â†öÒ…2J$3d2a8b74-627b-4e74-91c2-1dd4129fc46e
-“	java:S116"QRename this field "LOGGER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø´ƒí8ã”Æª…2J$26d24136-93d0-43b4-8e93-eb01ae77fd19
+java:S26297"$Invoke method(s) only conditionally.(ãêÑâ8ÃÛ•¡‡2J$6c271b19-ea9b-4a5b-8b8b-c72c6ea57b6a
+w
+java:S3740,"/Provide the parametrized type for this generic.(®÷œýýÿÿÿÿ8ÃÛ•¡‡2J$5ada3729-38b4-4877-9dc8-28ce3e0a95b7
+“	java:S116"QRename this field "LOGGER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø´ƒí8ÄÛ•¡‡2J$7be0484e-34e9-4d16-97c3-babef3213762
+‚
+java:S6213,":Rename this variable to not match a restricted identifier.(®÷œýýÿÿÿÿ8ÊÛ•¡‡2J$3d13885a-d38d-41a1-905a-ec427e80a800
